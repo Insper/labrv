@@ -41,6 +41,8 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-relative-urls (0.0.6)
+      jekyll (~> 4)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-theme-quartz (0.1.2)
@@ -86,6 +88,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
   jekyll-feed (~> 0.12)
+  jekyll-relative-urls (~> 0.0.6)
   jekyll-theme-quartz (~> 0.1)
   tzinfo (>= 1, < 3)
   tzinfo-data
