@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentos
-permalink: /Documentos/
+permalink: /documentos/
 ---
 
 # [Manual de Utilização do Laborátorio](https://drive.google.com/file/d/15Hf8Oz1SLqoJ1KX4EEgxP1Nj3r_zb954/view?usp=sharing)
